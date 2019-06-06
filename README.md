@@ -2,7 +2,7 @@
 # FPS-Preview-Build
 This is a demo build made in Unity of a simple FPS controller.
 
-Version 0.1.5.2
+Version 0.1.6
 
 ## Controls:
 ```
