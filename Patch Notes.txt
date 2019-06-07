@@ -1,0 +1,19 @@
+-------------------------------------------------
+
+				0.1.7 Patch Notes
+
+-------------------------------------------------
+
+ADDITIONS
+- Added new Night Ambient
+- Added new Weapons on the floor
+- Added new Pause Menu
+- Added new Space Ship
+
+REWORKS
+- Better UI
+
+ELIMINATIONS
+(no eliminations for this patch)
+
+-------------------------------------------------
