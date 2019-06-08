@@ -1,17 +1,19 @@
 -------------------------------------------------
 
-				0.1.7 Patch Notes
+		0.1.7.2 Patch Notes
 
 -------------------------------------------------
 
 ADDITIONS
-- Added new Night Ambient
-- Added new Weapons on the floor
-- Added new Pause Menu
-- Added new Space Ship
+- You can now swap between Day and Night with M
+- New Stamina Bar
+- New Post Processing Effects:
+	- Motion Blur
+	- AO
+	- Color Correction (Day - Night)
 
 REWORKS
-- Better UI
+- Reworked Pause Menu UI
 
 ELIMINATIONS
 (no eliminations for this patch)

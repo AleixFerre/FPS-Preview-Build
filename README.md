@@ -2,7 +2,7 @@
 # FPS-Preview-Build
 This is a demo build made in Unity of a simple FPS controller.
 
-Version 0.1.7
+Version 0.1.7.2
 
 ## Controls:
 ```
@@ -17,6 +17,7 @@ Q to change gun
 E to throw a grenade
 R to reload
 
+M to swap between day and night
 L to spawn a lot of new Space Ships
 K to spawn a lot of new Barrels
 Esc to exit to the menu
