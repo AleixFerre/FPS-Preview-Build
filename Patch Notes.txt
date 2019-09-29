@@ -1,21 +1,13 @@
 -------------------------------------------------
 
-		0.1.7.2 Patch Notes
+		0.1.8 Patch Notes
 
 -------------------------------------------------
 
 ADDITIONS
-- You can now swap between Day and Night with M
-- New Stamina Bar
-- New Post Processing Effects:
-	- Motion Blur
-	- AO
-	- Color Correction (Day - Night)
+- You can actually play a game, not a demo...
 
-REWORKS
-- Reworked Pause Menu UI
 
-ELIMINATIONS
-(no eliminations for this patch)
+That's all :D
 
 -------------------------------------------------
