@@ -2,6 +2,11 @@
 # FPS-Preview-Build
 This is a demo build made in Unity of a simple FPS controller.
 
+## ITCH.IO
+
+If you want to play, you have the full build in this [link](https://aleixferre.itch.io/aim-demo)
+
+
 Version 0.1.8
 
 ## Controls:
